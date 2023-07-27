@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Python, Data Science (Statistics, Machine learning, Deep learning, Optimization, Simulation).**
 - 💬 Ask me about **Python, R, Data Science.**
 - 📄 Know about my experiences: See **[Linkedin](https://linkedin.com/in/eiji-ito)**
-- 📫 How to reach me: **Message to [Linkedin](https://linkedin.com/in/eiji-ito) or [Twitter](https://twitter.com/itoeiji110704) or Mail to itoeiji110704@gmail.com**
+- 📫 How to reach me: **Message to [Linkedin](https://linkedin.com/in/eiji-ito) or [Twitter](https://twitter.com/itoeiji110704)**
 
 
 <h3 align="left">Languages and Tools:</h3>
