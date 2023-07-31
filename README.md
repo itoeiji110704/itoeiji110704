@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Eiji.</h1>
+<h1 align="center">Hello there 👋, I'm Eiji.</h1>
 
 - 🌱 I’m currently learning **Python, Data Science (Statistics, Machine learning, Deep learning, Optimization, Simulation).**
 - 💬 Ask me about **Python, R, Data Science.**
